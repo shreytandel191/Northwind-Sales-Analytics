@@ -43,3 +43,5 @@ This analysis helps stakeholders:
 
 ## Coclusion
 The Northwind Sales Analytics project showcases the power of data analytics in uncovering meaningful business insights. By combining Excel, SQL, and Power BI, the project delivers a comprehensive analysis of the company's operations—from customer behaviour and product performance to employee productivity and supplier reliability. The findings support strategic decision-making in sales, marketing, human resources, and supply chain management, enabling Northwind Traders to drive efficiency, boost revenue, and improve customer satisfaction.
+
+**Note: Additional solution file like "Presentation Video" can be found on this [Google Drive Link](https://drive.google.com/drive/folders/1TCWT2m6Er_jNZMPUx-8GeqtQt9y8o9Xn)**
