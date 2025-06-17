@@ -1,5 +1,5 @@
 # Northwind Sales Analytics
-This project analyses the sales, customer, employee, product, and supplier data of Northwind Traders, a fictitious e-commerce company, to uncover actionable business insights using data analytics and visualisation techniques.
+This project analyses the sales, customer, employee, product, and supplier data of Northwind Traders, an e-commerce company, to uncover actionable business insights using data analytics and visualisation techniques.
 
 ## Objective
 To identify growth opportunities, performance bottlenecks, and strategic improvements across the business using a data-driven approach.
